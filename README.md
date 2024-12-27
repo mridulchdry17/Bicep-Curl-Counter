@@ -19,5 +19,5 @@ This project is a bicep curl counter application developed using Python. It util
 * It counts the curls and provides visual feedback to ensure proper form.
 <br>
 ## Usage
-Position yourself within the camera's frame.
-Start performing bicep curls, and the counter will automatically track and display the count.
+* Position yourself within the camera's frame.
+* Start performing bicep curls, and the counter will automatically track and display the count.
